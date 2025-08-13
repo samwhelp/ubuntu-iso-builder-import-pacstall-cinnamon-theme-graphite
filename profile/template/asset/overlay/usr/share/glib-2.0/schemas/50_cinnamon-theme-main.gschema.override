@@ -1,7 +1,7 @@
 
 
 [org.cinnamon.theme]
-name='Graphite-red-Dark'
+name='Graphite-Dark'
 
 
 [org.cinnamon.desktop.wm.preferences]
@@ -12,8 +12,8 @@ theme='Arc-Dark'
 [org.cinnamon.desktop.interface]
 gtk-theme-backup='Adwaita'
 icon-theme-backup='gnome'
-gtk-theme='Graphite-red-Dark'
-icon-theme='Citrus-red-dark'
+gtk-theme='Graphite-Dark'
+icon-theme='GreyStone'
 cursor-theme='breeze_cursors'
 cursor-size=24
 menus-have-icons=true
